@@ -5,6 +5,7 @@ to, how a particular business structure within a given radius possibly contribut
 area of interest.
 
 How to run:
-if you just want to get the intersections and businesses in seperate files: first run "get_intersections.py" and then "yelp_script.py"
 
-if you want to run everything at once on the csv file, then just run "unified.py"
+if you want to get the intersections and businesses in seperate files: first run "get_intersections.py" and then "yelp_script.py". 
+
+if you just want to get the businesses, then run "unified.py"
